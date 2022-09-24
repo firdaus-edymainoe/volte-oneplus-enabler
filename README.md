@@ -40,7 +40,7 @@ If you're not familiar with terminal/command prompt, please use PowerShell and f
 
 ## Follow the sequential steps below on your computer
 
-1. Connect your phone with a USB cable
+1. Connect your phone with a USB cable and accept USB debugging request
 
 2. Open the `Mi11-UltraMBN\configs\mcfg_sw\generic` folder
 
