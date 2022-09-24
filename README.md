@@ -30,9 +30,10 @@
 2. Select the desired network provider (SEA for South East Asia)
 3. Open Terminal/PowerShell/CMD from the "EfsTools-0.10-modded-1.2-win32" folder
     - Make sure the terminal indicates that you're in the EfsTools folder
-    - Output will show similar to "PS D:EfsTools-0.10-modded-1.2-win32>" (this is from PowerShell)
+    - Output will show something like below (example from PowerShell)
+        - PS D:EfsTools-0.10-modded-1.2-win32>
 4. Run ".\EfsTools.exe efsInfo"
-    - Output should be,
+    - Output will show something like,
         - Use serial port 'COM5' (Port number may change automatically)
         - Version: 1, MaxDirectories: 50, MapPathnameLength: 1024, MaxFileSize: 0, MaxFilenameLength: 768, MaxMounts: 36, MaxSymlinkDepth: 0
 5. Run ".\run-efs-part-1.ps1"
