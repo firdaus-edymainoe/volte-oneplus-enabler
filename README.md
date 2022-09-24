@@ -12,7 +12,7 @@ Tested on OnePlus 7 Pro with successful VoLTE on Maxis, Malaysia
 
 -   Install QUD.WIN.1.1+Installer-10037.3+Setup.exe which contains the Qualcomm drivers
 
-## Following steps are to be perform on device in order
+## Follow the sequential steps below on your phone
 
 1. Install EngineeringMode.apk and OEMLogKit.apk
 
@@ -36,7 +36,7 @@ Tested on OnePlus 7 Pro with successful VoLTE on Maxis, Malaysia
 
 8. Turn on "Engineer Mode Toggle"
 
-## Following steps are to be perform on computer in order
+## Follow the sequential steps below on your computer
 
 1. Open the "Mi11-UltraMBN\configs\mcfg_sw\generic" folder
 
