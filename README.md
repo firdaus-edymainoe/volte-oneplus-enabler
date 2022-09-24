@@ -40,11 +40,13 @@ If you're not familiar with terminal/command prompt, please use PowerShell and f
 
 ## Follow the sequential steps below on your computer
 
-1. Open the `Mi11-UltraMBN\configs\mcfg_sw\generic` folder
+1. Connect your phone with a USB cable
 
-2. Select the desired network provider (SEA for South East Asia)
+2. Open the `Mi11-UltraMBN\configs\mcfg_sw\generic` folder
 
-3. Open Terminal/PowerShell/CMD from the `EfsTools-0.10-modded-1.2-win32` folder
+3. Select the desired network provider (SEA for South East Asia)
+
+4. Open Terminal/PowerShell/CMD from the `EfsTools-0.10-modded-1.2-win32` folder
 
     - Make sure the terminal indicates that you're in the EfsTools folder
 
@@ -52,7 +54,7 @@ If you're not familiar with terminal/command prompt, please use PowerShell and f
 
         - `PS D:EfsTools-0.10-modded-1.2-win32>`
 
-4. Run `.\EfsTools.exe efsInfo`
+5. Run `.\EfsTools.exe efsInfo`
 
     - Output will show something like,
 
@@ -60,7 +62,7 @@ If you're not familiar with terminal/command prompt, please use PowerShell and f
 
         - `Version: 1, MaxDirectories: 50, MapPathnameLength: 1024, MaxFileSize: 0, MaxFilenameLength: 768, MaxMounts: 36, MaxSymlinkDepth: 0`
 
-5. Run `.\run-efs-part-1.ps1`
+6. Run `.\run-efs-part-1.ps1`
 
     - Output should be,
 
@@ -68,10 +70,10 @@ If you're not familiar with terminal/command prompt, please use PowerShell and f
 
         - `Use serial port 'COM5'`
 
-6. Run `.\run-efs-part-2.ps1`
+7. Run `.\run-efs-part-2.ps1`
 
     - Output will be a stream of text with no errors
 
-7. Restart phone (can also be done via adb with "adb reboot" command)
+8. Restart phone (can also be done via adb with "adb reboot" command)
 
 ### Source: [XDA Forum](https://forum.xda-developers.com/t/guide-activate-volte-vowifi-oos-11-ob1-ob2.4223967/)
