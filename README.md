@@ -42,4 +42,4 @@
         - Use serial port 'COM5'
 6. Run ".\run-efs-part-2.ps1"
     - Output will be a stream of text with no errors
-7. Restart phone (can be done via adb with "adb reboot" command)
+7. Restart phone (can also be done via adb with "adb reboot" command)
