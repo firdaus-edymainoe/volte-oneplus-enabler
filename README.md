@@ -18,7 +18,7 @@ If you're not familiar with terminal/command prompt, please use PowerShell and f
 
 1. Install EngineeringMode.apk and OEMLogKit.apk
 
-2. Dial `\*#800#` to open OnePlusLogKit
+2. Dial `*#800#` to open OnePlusLogKit
 
 3. Click on "Function Switch"
 
@@ -30,7 +30,7 @@ If you're not familiar with terminal/command prompt, please use PowerShell and f
 
     - VT switch
 
-5. Dial `\*#801#`
+5. Dial `*#801#`
 
 6. Open `EngineerMode` with `Just once` (This will enable USB debugging)
 
