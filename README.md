@@ -1,6 +1,7 @@
 # How to force enable VoLTE / VoWiFi on Android
 
-Tested on OnePlus 7 Pro with successful VoLTE on Maxis, Malaysia
+Tested on OnePlus 7 Pro with successful VoLTE on Maxis, Malaysia.
+If you're not familiar with terminal/command prompt, please use PowerShell and follow the steps
 
 ## Pre-requisite
 
@@ -50,7 +51,7 @@ Tested on OnePlus 7 Pro with successful VoLTE on Maxis, Malaysia
 
         - `PS D:EfsTools-0.10-modded-1.2-win32>`
 
-4. Run `\EfsTools.exe efsInfo`
+4. Run `.\EfsTools.exe efsInfo`
 
     - Output will show something like,
 
