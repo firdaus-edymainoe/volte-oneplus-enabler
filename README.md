@@ -18,7 +18,7 @@ If you're not familiar with terminal/command prompt, please use PowerShell and f
 
 1. Install EngineeringMode.apk and OEMLogKit.apk
 
-2. Dial **\*#800#** to open OnePlusLogKit
+2. Dial `\*#800#` to open OnePlusLogKit
 
 3. Click on "Function Switch"
 
@@ -30,21 +30,21 @@ If you're not familiar with terminal/command prompt, please use PowerShell and f
 
     - VT switch
 
-5. Dial **\*#801#**
+5. Dial `\*#801#`
 
-6. Open **EngineerMode** with **Just once** (This will enable USB debugging)
+6. Open `EngineerMode` with `Just once` (This will enable USB debugging)
 
-7. Turn on **Rndis, diag switch**
+7. Turn on `Rndis, diag switch`
 
-8. Turn on **Engineer Mode Toggle**
+8. Turn on `Engineer Mode Toggle`
 
 ## Follow the sequential steps below on your computer
 
-1. Open the "Mi11-UltraMBN\configs\mcfg_sw\generic" folder
+1. Open the `Mi11-UltraMBN\configs\mcfg_sw\generic` folder
 
 2. Select the desired network provider (SEA for South East Asia)
 
-3. Open Terminal/PowerShell/CMD from the "EfsTools-0.10-modded-1.2-win32" folder
+3. Open Terminal/PowerShell/CMD from the `EfsTools-0.10-modded-1.2-win32` folder
 
     - Make sure the terminal indicates that you're in the EfsTools folder
 
