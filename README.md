@@ -4,6 +4,8 @@ Tested on OnePlus 7 Pro with successful VoLTE on Maxis, Malaysia
 
 ## Pre-requisite
 
+-   Click on the `Code` green button at the top to clone or download this repo
+
 -   Download ADB from [ADB from Google](https://developer.android.com/studio/releases/platform-tools)
 
 -   Save the ADB folder in the same directory as this README.md
