@@ -4,6 +4,8 @@
 
 ## Pre-requisite
 
+    - Download ADB from https://developer.android.com/studio/releases/platform-tools
+    - Save the ADB folder in the same directory as this README.md
     - Install QUD.WIN.1.1+Installer-10037.3+Setup.exe which containes the Qualcomm drivers
 
 ## Steps below are specific for Oneplus (tested on OnePlus 7 Pro, Firdaus)
@@ -11,13 +13,13 @@
 ## Following steps are to be perform on device in order
 
 1. Install EngineeringMode.apk and OEMLogKit.apk
-2. Dial \*#800# to open OnePlusLogKit
+2. Dial "*#800#" to open OnePlusLogKit
 3. Click on "Function Switch"
 4. Enable the following
     - VoLTE switch
     - VoWifi switch
     - VT switch
-5. Dial \*#801#
+5. Dial "*#801#"
 6. Open "EngineerMode" with "Just once" (This will enable USB debugging)
 7. Turn on "Rndis, diag switch"
 8. Turn on "Engineer Mode Toggle"
